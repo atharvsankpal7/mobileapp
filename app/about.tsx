@@ -6,7 +6,7 @@ export default function About() {
     <ScrollView style={styles.container}>
       <View style={styles.content}>
         <Image
-          source={{ uri: 'https://www.adcet.ac.in/images/slider/slider-2.jpg' }}
+          source={{ uri: 'https://www.adcet.ac.in/images/slider/slider-2.jpg' }} 
           style={styles.headerImage}
           resizeMode="contain"
         />
